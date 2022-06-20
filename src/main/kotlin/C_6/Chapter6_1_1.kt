@@ -1,4 +1,4 @@
-package C_5
+package C_6
 
 class Person(){
     val age: Int = 0
